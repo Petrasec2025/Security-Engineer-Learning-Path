@@ -9,8 +9,7 @@
 ---
 
 ## 📘 Room Overview
-<img width="778" height="468" alt="Screenshot 2025-10-25 at 3 10 36 AM" src="https://github.com/user-attachments/assets/65bb96fe-63f4-4cae-b66f-7607f69cdc7e" />
-
+<img width="778" height="468" alt="Room Overview" src="https://github.com/user-attachments/assets/65bb96fe-63f4-4cae-b66f-7607f69cdc7e" />
 
 The **Security Engineer Intro** room introduces the fundamentals of what a Security Engineer does and why this role is critical in protecting an organization’s digital infrastructure.  
 It explores **responsibilities, risk management, awareness, and operational readiness**, offering insight into how engineers balance **security and business goals**.
@@ -36,9 +35,9 @@ It explores **responsibilities, risk management, awareness, and operational read
 - Identify qualifications required for this role.
 - Explore day-to-day responsibilities.
 
- *Answer:* I have reviewed the learning objectives.
- <img width="1259" height="118" alt="Screenshot 2025-10-25 at 3 52 44 AM" src="https://github.com/user-attachments/assets/c6ec4d5b-379a-49af-8004-1815dee21924" />
+*Answer:* I have reviewed the learning objectives.
 
+<img width="1259" height="118" alt="Task 1 Screenshot" src="https://github.com/user-attachments/assets/c6ec4d5b-379a-49af-8004-1815dee21924" />
 
 ---
 
@@ -55,7 +54,8 @@ It explores **responsibilities, risk management, awareness, and operational read
 - Familiarity with **Governance, Risk, and Compliance (GRC)**.
 
 ✅ *Answer:* The **Security Engineer** ensures that an organization’s cybersecurity risk is minimized at all times.
-<img width="1305" height="110" alt="Screenshot 2025-10-25 at 3 52 53 AM" src="https://github.com/user-attachments/assets/261a9c5c-8b8a-4926-9880-5a4b768893c4" />
+
+<img width="1305" height="110" alt="Task 2 Screenshot" src="https://github.com/user-attachments/assets/261a9c5c-8b8a-4926-9880-5a4b768893c4" />
 
 ---
 
@@ -82,8 +82,8 @@ It explores **responsibilities, risk management, awareness, and operational read
 - Asset details are stored in an **Asset Inventory**.  
 - Policy exceptions may be granted through **Exceptions**.  
 - The most ROI is achieved through **Secure by Design**.
-- <img width="1298" height="390" alt="Screenshot 2025-10-25 at 3 53 03 AM" src="https://github.com/user-attachments/assets/59c4c43c-8f0a-447a-b8ed-e42dd023925c" />
 
+<img width="1298" height="390" alt="Task 3 Screenshot" src="https://github.com/user-attachments/assets/59c4c43c-8f0a-447a-b8ed-e42dd023925c" />
 
 ---
 
@@ -100,8 +100,8 @@ It explores **responsibilities, risk management, awareness, and operational read
 - **Compliance & Audits:** Maintain certifications (e.g., PCI-DSS, ISO 27001, SOC2).
 
 ✅ *Answer:* Humans are considered the **weakest link** in an organization’s security.
-<img width="1278" height="267" alt="Screenshot 2025-10-25 at 3 53 13 AM" src="https://github.com/user-attachments/assets/df55b8ce-226e-4142-9262-d8682b1ee26a" />
 
+<img width="1278" height="267" alt="Task 4 Screenshot" src="https://github.com/user-attachments/assets/df55b8ce-226e-4142-9262-d8682b1ee26a" />
 
 ---
 
@@ -115,8 +115,8 @@ It explores **responsibilities, risk management, awareness, and operational read
 ✅ *Answers:*  
 - Theoretical security readiness exercise: **Tabletop Exercise**  
 - Management’s top priority in a disaster: **Business Continuity**
-<img width="1271" height="220" alt="Screenshot 2025-10-25 at 3 53 21 AM" src="https://github.com/user-attachments/assets/e1c5e2b6-db8b-4461-8696-efd962c3bdfb" />
 
+<img width="1271" height="220" alt="Task 5 Screenshot" src="https://github.com/user-attachments/assets/e1c5e2b6-db8b-4461-8696-efd962c3bdfb" />
 
 ---
 
@@ -128,21 +128,17 @@ It explores **responsibilities, risk management, awareness, and operational read
 
 > ⚑ **Flag Captured:** `THM{example-flag}`  
 *(Replace with your real flag once you complete the challenge.)*
-<img width="1436" height="783" alt="Screenshot 2025-10-25 at 3 38 31 AM" src="https://github.com/user-attachments/assets/a6f0094d-4c4e-4080-b0cc-668f7514b0e4" />
-<img width="1430" height="785" alt="Screenshot 2025-10-25 at 3 39 01 AM" src="https://github.com/user-attachments/assets/a801a0d6-891c-4755-b45c-799cfe41c16f" />
-<img width="1401" height="771" alt="Screenshot 2025-10-25 at 3 40 52 AM" src="https://github.com/user-attachments/assets/79b01cbc-9059-4a42-a702-d5c848ebdcdd" />
-<img width="663" height="683" alt="Screenshot 2025-10-25 at 3 44 08 AM" src="https://github.com/user-attachments/assets/199ea72a-f8e2-418e-90f4-2b5b05c7866d" />
-<img width="575" height="709" alt="Screenshot 2025-10-25 at 3 44 23 AM" src="https://github.com/user-attachments/assets/e713e8a5-4f89-456b-8e18-0fd1bf488fcd" />
-<img width="1440" height="761" alt="Screenshot 2025-10-25 at 3 44 59 AM" src="https://github.com/user-attachments/assets/b76001a8-e4e4-44d9-bdd9-2232edb69a16" />
-<img width="794" height="740" alt="Screenshot 2025-10-25 at 3 45 13 AM" src="https://github.com/user-attachments/assets/6a0f7fa5-a6b8-40a9-b2c3-9e91c0782062" />
-<img width="799" height="781" alt="Screenshot 2025-10-25 at 3 46 08 AM" src="https://github.com/user-attachments/assets/bb34553d-a6c0-4d76-88ff-afb4de3ba840" />
-<img width="1312" height="790" alt="Screenshot 2025-10-25 at 3 47 38 AM" src="https://github.com/user-attachments/assets/8d6dc1dd-9652-4de4-8f06-6575269dab62" />
 
-
-
-
-
-
+### Screenshots — Task 6 Simulation
+<img width="1436" height="783" alt="Task 6 Screenshot 1" src="https://github.com/user-attachments/assets/a6f0094d-4c4e-4080-b0cc-668f7514b0e4" />
+<img width="1430" height="785" alt="Task 6 Screenshot 2" src="https://github.com/user-attachments/assets/a801a0d6-891c-4755-b45c-799cfe41c16f" />
+<img width="1401" height="771" alt="Task 6 Screenshot 3" src="https://github.com/user-attachments/assets/79b01cbc-9059-4a42-a702-d5c848ebdcdd" />
+<img width="663" height="683" alt="Task 6 Screenshot 4" src="https://github.com/user-attachments/assets/199ea72a-f8e2-418e-90f4-2b5b05c7866d" />
+<img width="575" height="709" alt="Task 6 Screenshot 5" src="https://github.com/user-attachments/assets/e713e8a5-4f89-456b-8e18-0fd1bf488fcd" />
+<img width="1440" height="761" alt="Task 6 Screenshot 6" src="https://github.com/user-attachments/assets/b76001a8-e4e4-44d9-bdd9-2232edb69a16" />
+<img width="794" height="740" alt="Task 6 Screenshot 7" src="https://github.com/user-attachments/assets/6a0f7fa5-a6b8-40a9-b2c3-9e91c0782062" />
+<img width="799" height="781" alt="Task 6 Screenshot 8" src="https://github.com/user-attachments/assets/bb34553d-a6c0-4d76-88ff-afb4de3ba840" />
+<img width="1312" height="790" alt="Task 6 Screenshot 9" src="https://github.com/user-attachments/assets/8d6dc1dd-9652-4de4-8f06-6575269dab62" />
 
 ---
 
@@ -159,28 +155,6 @@ It explores **responsibilities, risk management, awareness, and operational read
 
 ---
 
-## 🖼️ Screenshots & Evidence
-
-| Task | Description | Screenshot |
-|------|--------------|-------------|
-| Task 1 | Room overview | ![Overview](screenshots/task1.png) |
-| Task 3 | Core responsibilities | ![Responsibilities](screenshots/task3.png) |
-| Task 6 | Flag result | ![Flag](screenshots/task6_flag.png) |
-
-*(Store your images in `screenshots/` and reference them here.)*
-
----
-
-## 📂 Artifacts
-
-| File | Description |
-|------|-------------|
-| `artifacts/security-policy-template.docx` | Sample organizational security policy |
-| `artifacts/network-architecture.png` | Secure network layout example |
-| `artifacts/awareness-slide.pdf` | Example of staff training material |
-
----
-
 ## 🧭 Reflection
 
 **What I learned:**
@@ -193,3 +167,4 @@ It explores **responsibilities, risk management, awareness, and operational read
 ---
 
 **Badge Earned:** 🏅 *Security Engineer Intro – TryHackMe*
+
