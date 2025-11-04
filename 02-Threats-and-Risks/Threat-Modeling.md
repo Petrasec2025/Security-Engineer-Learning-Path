@@ -135,44 +135,31 @@ This premium room explores threat modelling frameworks to build cyber resiliency
 | **Transaction Repudiation** | Repudiation | Medium | Comprehensive logging, Digital signatures |
 | **Man-in-the-Middle Attacks** | Tampering, Information Disclosure | High | TLS/SSL encryption, Certificate pinning |
 
-**Detailed Threat Analysis**:
+**STRIDE Exercise Screenshots**:
 
-**Spoofing Threats Identified**:
-- Phishing emails mimicking payment notifications
-- Fake login pages harvesting credentials
-- DNS spoofing redirecting to malicious sites
+![STRIDE Case Scenario 1](https://github.com/user-attachments/assets/d30ab29b-baf4-4407-9f2e-c275e80fde03)
+*STRIDE framework introduction and overview*
 
-**Tampering Threats Identified**:
-- Manipulation of transaction amounts
-- Modification of payment routing
-- Alteration of customer data
+![STRIDE Case Scenario 2](https://github.com/user-attachments/assets/605cde82-fc8d-4847-8b36-dd03a17e1c62)
+*Team collaboration and roles in STRIDE exercise*
 
-**Repudiation Threats Identified**:
-- Customers denying legitimate transactions
-- Merchants denying receipt of payments
-- System administrators denying configuration changes
+![STRIDE Case Scenario 3](https://github.com/user-attachments/assets/efb9d465-4dc3-407b-bf84-d9245d457576)
+*STRIDE threat categorization process*
 
-**Information Disclosure Threats**:
-- Unencrypted data transmission
-- Improper access controls on databases
-- Log files containing sensitive information
+![STRIDE Case Scenario 4](https://github.com/user-attachments/assets/a426b130-c20e-4e03-984c-c8caed9220dd)
+*Spoofing threats identification*
 
-**Denial of Service Threats**:
-- Volume-based attacks on payment APIs
-- Application layer attacks on web servers
-- Resource exhaustion attacks
+![STRIDE Case Scenario 5](https://github.com/user-attachments/assets/bafe0162-3522-4f92-bbc7-b88ec771eb6e)
+*Tampering threats analysis*
 
-**Elevation of Privilege Threats**:
-- Vertical privilege escalation to admin roles
-- Horizontal privilege escalation between users
-- API key leakage and abuse
+![STRIDE Case Scenario 6](https://github.com/user-attachments/assets/fc0ebd06-e620-4d75-b846-394b26803d36)
+*Information disclosure threats*
 
-**Key Mitigations Implemented**:
-- Multi-factor authentication for all admin access
-- Real-time transaction monitoring and anomaly detection
-- Regular security awareness training
-- Automated vulnerability scanning
-- Incident response plan with clear escalation procedures
+![STRIDE Case Scenario 7](https://github.com/user-attachments/assets/090ae56f-dcd3-439a-9199-81a84e0eea8c)
+*Denial of service and elevation of privilege threats*
+
+![STRIDE Case Scenario 8](https://github.com/user-attachments/assets/c9cb8592-87ba-4ed7-899e-e7eb26aa65e5)
+*STRIDE exercise completion and flag*
 
 **Flag Obtained**: `THM{m0d3ll1ng_w1th_STR1D3}`
 
@@ -314,6 +301,38 @@ This premium room explores threat modelling frameworks to build cyber resiliency
 | **Insider Threats** | Low | High | Medium |
 | **XSS Attacks** | Medium | Medium | Medium |
 
+**PASTA Exercise Screenshots**:
+
+![PASTA Case Scenario 1](https://github.com/user-attachments/assets/9c6fd2ca-418b-4223-8337-f2e25431d106)
+*PASTA framework introduction and 7-step methodology*
+
+![PASTA Case Scenario 2](https://github.com/user-attachments/assets/c74b181d-0256-4fd9-82cb-a9a63fb63985)
+*Step 1: Define Objectives*
+
+![PASTA Case Scenario 3](https://github.com/user-attachments/assets/f151e149-729e-475f-9d83-de37daca00a7)
+*Step 2: Define Technical Scope*
+
+![PASTA Case Scenario 4](https://github.com/user-attachments/assets/8f78575e-dfa2-4573-a1c9-ac89d3570f99)
+*Step 3: Decompose Application*
+
+![PASTA Case Scenario 5](https://github.com/user-attachments/assets/b42731b4-c008-4e36-a88e-deff7209a184)
+*Step 4: Analyze Threats*
+
+![PASTA Case Scenario 6](https://github.com/user-attachments/assets/e5496861-adf8-44ec-a56a-34eeda77e77c)
+*Step 5: Vulnerability Analysis*
+
+![PASTA Case Scenario 7](https://github.com/user-attachments/assets/7387ab1c-ba6c-43dc-ac60-a689b15ef960)
+*Step 6: Analyze Attacks*
+
+![PASTA Case Scenario 8](https://github.com/user-attachments/assets/fc157d30-fde9-4bac-bdaf-5c32778c53a6)
+*Step 7: Risk and Impact Analysis*
+
+![PASTA Case Scenario 9](https://github.com/user-attachments/assets/622b15cb-744b-4fe2-8bc9-20d1cb77fdfc)
+*PASTA exercise completion and flag*
+
+![PASTA Case Scenario 10](https://github.com/user-attachments/assets/a8e6153a-12e0-4d2c-857a-04b239493e58)
+*PASTA framework team collaboration*
+
 **Countermeasures Implemented**:
 - Web Application Firewall (WAF) with bot detection
 - Multi-factor authentication for all users
@@ -350,32 +369,6 @@ This premium room explores threat modelling frameworks to build cyber resiliency
 | 7 | Attack scenario simulation step | `Analyse the Attacks` |
 | 7 | Asset inventory creation step | `Define the Technical Scope` |
 | 7 | PASTA exercise flag | `THM{c00k1ng_thr34ts_w_P4ST4}` |
-
-
----
-STRIDE Case cenario
-<img width="1440" height="781" alt="Screenshot 2025-11-04 at 5 26 50 PM" src="https://github.com/user-attachments/assets/d30ab29b-baf4-4407-9f2e-c275e80fde03" />
-<img width="1331" height="502" alt="Screenshot 2025-11-04 at 7 05 04 PM" src="https://github.com/user-attachments/assets/605cde82-fc8d-4847-8b36-dd03a17e1c62" />
-<img width="1439" height="748" alt="Screenshot 2025-11-04 at 7 05 55 PM" src="https://github.com/user-attachments/assets/efb9d465-4dc3-407b-bf84-d9245d457576" />
-<img width="624" height="337" alt="Screenshot 2025-11-04 at 7 14 02 PM" src="https://github.com/user-attachments/assets/a426b130-c20e-4e03-984c-c8caed9220dd" />
-<img width="655" height="335" alt="Screenshot 2025-11-04 at 7 14 11 PM" src="https://github.com/user-attachments/assets/bafe0162-3522-4f92-bbc7-b88ec771eb6e" />
-<img width="664" height="345" alt="Screenshot 2025-11-04 at 7 14 22 PM" src="https://github.com/user-attachments/assets/fc0ebd06-e620-4d75-b846-394b26803d36" />
-<img width="626" height="329" alt="Screenshot 2025-11-04 at 7 14 32 PM" src="https://github.com/user-attachments/assets/090ae56f-dcd3-439a-9199-81a84e0eea8c" />
-<img width="1440" height="608" alt="Screenshot 2025-11-04 at 7 13 09 PM" src="https://github.com/user-attachments/assets/c9cb8592-87ba-4ed7-899e-e7eb26aa65e5" />
-
----
-PASTA case Scenario
-<img width="1440" height="787" alt="Screenshot 2025-11-04 at 7 23 20 PM" src="https://github.com/user-attachments/assets/9c6fd2ca-418b-4223-8337-f2e25431d106" />
-<img width="676" height="128" alt="Screenshot 2025-11-04 at 7 45 55 PM" src="https://github.com/user-attachments/assets/c74b181d-0256-4fd9-82cb-a9a63fb63985" />
-<img width="643" height="395" alt="Screenshot 2025-11-04 at 7 46 03 PM" src="https://github.com/user-attachments/assets/f151e149-729e-475f-9d83-de37daca00a7" />
-<img width="647" height="362" alt="Screenshot 2025-11-04 at 7 46 10 PM" src="https://github.com/user-attachments/assets/8f78575e-dfa2-4573-a1c9-ac89d3570f99" />
-<img width="640" height="390" alt="Screenshot 2025-11-04 at 7 46 16 PM" src="https://github.com/user-attachments/assets/b42731b4-c008-4e36-a88e-deff7209a184" />
-<img width="644" height="363" alt="Screenshot 2025-11-04 at 7 46 24 PM" src="https://github.com/user-attachments/assets/e5496861-adf8-44ec-a56a-34eeda77e77c" />
-<img width="632" height="354" alt="Screenshot 2025-11-04 at 7 46 37 PM" src="https://github.com/user-attachments/assets/7387ab1c-ba6c-43dc-ac60-a689b15ef960" />
-<img width="644" height="368" alt="Screenshot 2025-11-04 at 7 46 48 PM" src="https://github.com/user-attachments/assets/fc157d30-fde9-4bac-bdaf-5c32778c53a6" />
-<img width="635" height="354" alt="Screenshot 2025-11-04 at 7 46 57 PM" src="https://github.com/user-attachments/assets/622b15cb-744b-4fe2-8bc9-20d1cb77fdfc" />
-<img width="1433" height="766" alt="Screenshot 2025-11-04 at 7 35 49 PM" src="https://github.com/user-attachments/assets/a8e6153a-12e0-4d2c-857a-04b239493e58" />
-
 
 ---
 
