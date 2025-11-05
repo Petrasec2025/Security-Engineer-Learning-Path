@@ -143,6 +143,14 @@ This premium TryHackMe room provides comprehensive training on the role and resp
 - **Standard Time Format**: UTC
 
 ### Final Flag
+<img width="668" height="663" alt="Screenshot 2025-11-06 at 2 21 27 AM" src="https://github.com/user-attachments/assets/2fd95664-4633-4836-a5ae-b764cd1a448f" />
+<img width="666" height="698" alt="Screenshot 2025-11-06 at 2 21 35 AM" src="https://github.com/user-attachments/assets/6059d29d-5d6a-418c-8b8f-59a49e013db6" />
+<img width="662" height="688" alt="Screenshot 2025-11-06 at 2 21 45 AM" src="https://github.com/user-attachments/assets/ec872c88-414d-4b36-86d9-c2a7130914c9" />
+<img width="658" height="643" alt="Screenshot 2025-11-06 at 2 21 55 AM" src="https://github.com/user-attachments/assets/dd606a3f-5970-4456-a142-ddd4a74abe3c" />
+<img width="662" height="689" alt="Screenshot 2025-11-06 at 2 22 07 AM" src="https://github.com/user-attachments/assets/3eb31b86-e996-4027-8013-2c1e08f3d3c4" />
+<img width="1440" height="772" alt="Screenshot 2025-11-06 at 2 09 52 AM" src="https://github.com/user-attachments/assets/13e1037b-6567-401c-b2a2-fc1ad23c43e1" />
+
+
 - **Completion Flag**: `THM{I.am.ready.to.become.a.first.responder}`
 
 ## 💡 Self-Reflection
