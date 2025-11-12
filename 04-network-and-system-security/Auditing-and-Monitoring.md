@@ -13,7 +13,7 @@
 **Category:** Security Engineering / Network and System Security  
 **Duration:** 60 minutes  
 **Difficulty:** Intermediate  
-**Completion Status:** 10% (Partial Completion)
+**Completion Status:** 50% (Partial Completion)
 
 ## 🎯 Learning Objectives
 
