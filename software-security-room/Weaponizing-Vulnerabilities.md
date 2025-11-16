@@ -46,7 +46,8 @@
 ### Task 3: Vulnerability Lifecycle
 
 **Vulnerability Lifecycle Framework:** DoD's structured approach to vulnerability management through Disclosure Program (VDP).
-<img width="1177" height="87" alt="Screenshot 2025-11-16 at 1 25 07 PM" src="https://github.com/user-attachments/assets/ba1b615c-fd85-44dc-ac49-8a377a63bf43" />
+
+<img width="1177" height="87" alt="Vulnerability Lifecycle Stages" src="https://github.com/user-attachments/assets/ba1b615c-fd85-44dc-ac49-8a377a63bf43" />
 
 **Lifecycle Stages:**
 1. **Product Launched:** Vendor releases hardware/software product
@@ -66,7 +67,8 @@
 ### Task 4: Opportunity for Weaponizing Vulnerabilities
 
 **Weaponization Process:** Developing exploits from known vulnerabilities through local development or underground market acquisition.
-<img width="1198" height="382" alt="Screenshot 2025-11-16 at 1 25 18 PM" src="https://github.com/user-attachments/assets/2c3fc9ad-6048-406a-ac07-8cd7190a0c98" />
+
+<img width="1198" height="382" alt="Weaponization Opportunity Timeline" src="https://github.com/user-attachments/assets/2c3fc9ad-6048-406a-ac07-8cd7190a0c98" />
 
 **Key Timeframes:**
 - **0-Day Exploits:** Days to years for development
@@ -86,7 +88,8 @@
 ### Task 5: Exploit Chaining
 
 **Exploit Chaining Definition:** Stringing multiple vulnerabilities together to achieve complete system compromise.
-<img width="646" height="544" alt="Screenshot 2025-11-16 at 1 28 23 PM" src="https://github.com/user-attachments/assets/e295a638-e402-454c-b820-9c9a534e9815" />
+
+<img width="646" height="544" alt="Exploit Chaining Process" src="https://github.com/user-attachments/assets/e295a638-e402-454c-b820-9c9a534e9815" />
 
 **Multi-Stage Exploitation Process:**
 
