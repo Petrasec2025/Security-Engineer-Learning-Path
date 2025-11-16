@@ -34,7 +34,8 @@
 - **Design Phase:** 6x more expensive to fix bugs than during implementation
 - **Testing Phase:** 15x more expensive to identify vulnerabilities
 - **Maintenance Phase:** 100x more costly to address security issues
-<img width="546" height="290" alt="Screenshot 2025-11-16 at 10 21 51 AM" src="https://github.com/user-attachments/assets/8601f93a-4fbb-4ba7-9cdb-461c2274f0ec" />
+
+<img width="546" height="290" alt="Cost of bug fixes across SDLC phases" src="https://github.com/user-attachments/assets/8601f93a-4fbb-4ba7-9cdb-461c2274f0ec" />
 
 **Benefits:**
 - Early vulnerability detection and reduction
@@ -53,7 +54,8 @@
 - **Security Training:** Invest in developer security education
 
 **SSDLC Processes:**
-<img width="747" height="421" alt="Screenshot 2025-11-16 at 10 21 59 AM" src="https://github.com/user-attachments/assets/db2f46aa-80f7-4393-ab1a-a50856ed0067" />
+
+<img width="747" height="421" alt="SSDLC Processes diagram" src="https://github.com/user-attachments/assets/db2f46aa-80f7-4393-ab1a-a50856ed0067" />
 
 - **Risk Assessment:** Early-stage security considerations
 - **Threat Modelling:** Design phase threat identification
@@ -81,7 +83,7 @@
 - Affected user count
 - Target accessibility
 
-  <img width="484" height="478" alt="Screenshot 2025-11-16 at 10 21 37 AM" src="https://github.com/user-attachments/assets/8b559ca2-1e1b-4b16-8c73-f69a9df7d0f1" />
+<img width="484" height="478" alt="Risk Assessment Matrix" src="https://github.com/user-attachments/assets/8b559ca2-1e1b-4b16-8c73-f69a9df7d0f1" />
 
 **Answers:**
 - Qualitative risk formula: `Severity x Likelihood`
@@ -100,7 +102,8 @@
 - **Information Disclosure:** Confidentiality violations
 - **Denial of Service:** Availability violations
 - **Elevation of Privilege:** Authorization violations
-<img width="936" height="427" alt="Screenshot 2025-11-16 at 10 24 13 AM" src="https://github.com/user-attachments/assets/41616c56-237d-41e8-98e1-30692e13a99a" />
+
+<img width="936" height="427" alt="STRIDE Threat Modeling Framework" src="https://github.com/user-attachments/assets/41616c56-237d-41e8-98e1-30692e13a99a" />
 
 **DREAD:**
 - **Damage Potential:** Impact scale (0-10)
@@ -113,7 +116,8 @@
 - Process for Attack Simulation and Threat Analysis
 - Aligns technical requirements with business objectives
 - Seven-stage methodology
-<img width="564" height="468" alt="Screenshot 2025-11-16 at 10 24 25 AM" src="https://github.com/user-attachments/assets/af09ad3f-967a-483c-8f4e-ccbecafd9e66" />
+
+<img width="564" height="468" alt="PASTA Threat Modeling Methodology" src="https://github.com/user-attachments/assets/af09ad3f-967a-483c-8f4e-ccbecafd9e66" />
 
 **Answers:**
 - Rating-based methodology: `DREAD`
@@ -144,7 +148,8 @@
 - **RASP (Runtime Application Self Protection):** Production environment protection
 
 **Security Testing Timeline:**
-<img width="740" height="297" alt="Screenshot 2025-11-16 at 10 36 52 AM" src="https://github.com/user-attachments/assets/e72805eb-4c50-4cc5-9291-cb1ec749a06e" />
+
+<img width="740" height="297" alt="Security Testing Tools Timeline" src="https://github.com/user-attachments/assets/e72805eb-4c50-4cc5-9291-cb1ec749a06e" />
 
 - **SAST/SCA:** Early development stages
 - **DAST/IAST:** Pre-production testing
@@ -188,7 +193,8 @@
 - **Practices:** Training, threat modeling, security testing, incident response
 
 **OWASP S-SDLC:**
-<img width="782" height="409" alt="Screenshot 2025-11-16 at 10 55 05 AM" src="https://github.com/user-attachments/assets/89d61174-1745-4484-8fe6-f9c818ccea29" />
+
+<img width="782" height="409" alt="OWASP S-SDLC Methodology" src="https://github.com/user-attachments/assets/89d61174-1745-4484-8fe6-f9c818ccea29" />
 
 - **Approach:** Agile security sprints with quality gates
 - **Foundation:** OWASP SAMM (Software Assurance Maturity Model)
@@ -204,11 +210,13 @@
 - Measuring stick model: `BSIMM`
 
 ### Task 9: Practical Exercise
-<img width="1431" height="791" alt="Screenshot 2025-11-16 at 11 10 24 AM" src="https://github.com/user-attachments/assets/e3807e38-fd00-49ba-b6c1-e320dc7cda89" />
-<img width="683" height="405" alt="Screenshot 2025-11-16 at 11 39 08 AM" src="https://github.com/user-attachments/assets/895c0440-20d1-4c1d-8c79-d0814b1d3960" />
-
 
 **Interactive Learning:** Secure Space Lifecycle simulation
+
+<img width="1431" height="791" alt="Secure Space Lifecycle Interface" src="https://github.com/user-attachments/assets/e3807e38-fd00-49ba-b6c1-e320dc7cda89" />
+
+<img width="683" height="405" alt="Secure Space Lifecycle Completion" src="https://github.com/user-attachments/assets/895c0440-20d1-4c1d-8c79-d0814b1d3960" />
+
 **Flag:** `THM{D0-A-Barr3l-R011}`
 
 ## 🛠️ Implementation Framework
